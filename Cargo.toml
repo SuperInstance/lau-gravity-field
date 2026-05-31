@@ -4,6 +4,7 @@ version = "0.1.0"
 edition = "2021"
 description = "Continuous gravity field that flows through all rooms — a real-time tensor field"
 license = "MIT"
+repository = "https://github.com/SuperInstance/lau-gravity-field"
 
 [dependencies]
 serde = { version = "1", features = ["derive"] }
